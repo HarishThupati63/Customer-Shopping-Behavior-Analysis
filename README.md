@@ -1,2 +1,1 @@
-# Customer-Shopping-Behavior-Analysis
-Performed analysis on a dataset using Python, SQL, Power BI
+This project provides a clear, recruiter-ready overview of my customer shopping behaviour analysis — covering data cleaning, exploratory data analysis, SQL across multiple databases, a Power BI dashboard, a detailed written report, and a presentation created with Gamma. The README explains the dataset, tools used, project steps, key insights, and instructions to run the project locally.
