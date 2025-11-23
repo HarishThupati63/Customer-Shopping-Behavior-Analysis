@@ -146,7 +146,7 @@ Customer Segmentation: Loyal customers are the majority of the base.
 
 Subscription Impact: Subscribers are a minority share, whereas non-subscribers drive most of the revenue.
 
-Strategic Recommendations
+Strategic Recommendations:
 
 Encourage subscription growth through special offers and targeted marketing campaigns.
 
